@@ -1,4 +1,6 @@
 # mortar-evolution-stone
+
+[![Join the chat at https://gitter.im/rajuse/mortar-evolution-stone](https://badges.gitter.im/rajuse/mortar-evolution-stone.svg)](https://gitter.im/rajuse/mortar-evolution-stone?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
  Rotate Device and Watch Mortar evolves Pokemon!
 
 ## What's a Mortar
