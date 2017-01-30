@@ -48,4 +48,21 @@
       android:gravity="bottom"
       tools:ignore="HardcodedText"
       />
+
+  <Button
+      android:id="@+id/btn_isValidChance"
+      android:layout_width="wrap_content"
+      android:layout_height="wrap_content"
+      android:text="isValidChance?"
+      android:layout_marginTop="20dp"/>
+
+
+  <Button
+      android:id="@+id/btn_enableDisableFlag"
+      android:layout_width="wrap_content"
+      android:layout_height="wrap_content"
+      android:text="Dis/Enable"
+      android:layout_marginTop="70dp"/>
+
+
 </rajusugale.dev.mortar.EvolutionView>

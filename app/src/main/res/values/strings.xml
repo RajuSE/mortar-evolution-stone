@@ -1,5 +1,7 @@
 <resources>
     <string name="app_name">mortar-evolution-stone</string>
     <string name="instr">Rotate until Mortar evolves Pokemon!</string>
+    <string name="instr_exceeded">Power of Evolutin-Stone is down! You\'ve lost both chances!</string>
+    <string name="instr_disabled">Evolution-Stone is Disabled! Enable it!</string>
 
 </resources>
