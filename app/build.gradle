@@ -34,7 +34,7 @@ dependencies {
         exclude group: 'com.android.support', module: 'support-annotations'
     })
     compile 'com.android.support:appcompat-v7:25.1.0'
-    compile project(':mortar_module')
+    compile project(':mortar')
 //    compile project(':mockito-core-2.6.6')
     def mockito_version = '2.7.0'
 
