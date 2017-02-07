@@ -1,2 +1,1 @@
-include ':app', ':mortar_module'
-project(':mortar_module').projectDir = new File('mortar')
+include ':app', ':mortar'
