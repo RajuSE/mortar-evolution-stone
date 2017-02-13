@@ -55,7 +55,7 @@ public class EvolutionInstrumTest {
         // Context of the app under test.
         Context appContext = InstrumentationRegistry.getTargetContext();
 
-        assertEquals("rajusugale.dev.codelib", appContext.getPackageName());
+        assertEquals("rajusugale.dev.mortar", appContext.getPackageName());
     }
 
     @Test
